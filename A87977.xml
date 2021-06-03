@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Isle of VVight, of the designe to have gotten the King from the Isle of Wight. The iron barre of the window broken, and two horses and a boat ready to carry his Majesty away. Mr. Douset, Mr. Osburne, and others committed to prison. And a great victory against the Cavaliers that rise in the west, many killed and taken, and divers drowned. With the particulars of the said fight, certified in a letter to a Member of the House of Commons. June. 1. 1648. Imprimatur, Gilb. Mabbott.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87977</idno><idno type="EEBO-CITATION">99862992</idno>
+  <idno type="VID">161759</idno>
+  <idno type="EEBO-PROQUEST">2248545277</idno>
+  
+            <idno type="STC">Wing L1523</idno>
+            <idno type="STC">Thomason E445_28</idno>
+            <idno type="STC">ESTC R202829</idno>
+            <idno type="PROQUEST">99862992</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862992e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161759)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Isle of VVight, of the designe to have gotten the King from the Isle of Wight. The iron barre of the window broken, and two horses and a boat ready to carry his Majesty away. Mr. Douset, Mr. Osburne, and others committed to prison. And a great victory against the Cavaliers that rise in the west, many killed and taken, and divers drowned. With the particulars of the said fight, certified in a letter to a Member of the House of Commons. June. 1. 1648. Imprimatur, Gilb. Mabbott.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161759:1"/>
+            <p>A LETTER From the Isle of VVIGHT, OF THE.</p>
+            <p>Designe to have gotten the KING from the Isle of <hi>Wight.</hi> The Iron barre of the Window broken, and two Horses and a Boat ready to carry his <hi>Majesty</hi> away.</p>
+            <p>Mr. <hi>Douset, Mr. Osburne,</hi> and others committed to prison.</p>
+            <p>AND A Great Victory against the Cavaliers that rise in the West, many killed and taken, and divers drowned.</p>
+            <p>
+               <hi>With the particulars of the said Fight, certified in a Letter to a Member of the House of Commons.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>June. 1. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur, </p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be sold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161759:2"/>
+            <pb n="1" facs="tcp:161759:2"/>
+            <head>A Letter from the ISLE of WIGHT Concerning <hi>The KINGS Majesty.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HEre was a notable designe to have conveyed his Majesty away from hence, whither, God knows, some suppose it might be to the Navy, expecting it would engage all, or most part of the Seamen, (upon this intervaile of disorder) suddenly.</p>
+            <p>Others think that his Majesty should have gone from hence to <hi>Kent,</hi> to set up his Royall Standard in the head of those that are risen for him, and that ther<g ref="char:EOLhyphen"/>upon divers Lords, Knights, and Gentlemen should presently have come in, received Commissions, and engaged their Interests.</p>
+            <p>But what ever the intentions were, the defigne is (in this particular) prevented, and his Majesty is still safe in this Castle.</p>
+            <p>Two Souldiers of the Guard acquainted Collonell <hi>Hammond</hi> the Governour, that they and one of their fellow Souldiers (of the Guard also) had been treated with, and perswaded to make engagements to some
+<pb n="2" facs="tcp:161759:3"/>that were to convey his Majesty away: and that all things were ready for the speedy execution thereof.</p>
+            <p>Coll: <hi>Hammond,</hi> (upon examination hereof) was ac<g ref="char:EOLhyphen"/>quainted that two of the Gentlemen appointed by the Parliament, and the Lord Generall; were complotters in this designe. Viz. Mr. <hi>Douset,</hi> formerly a page of the back-staires, and after Gentleman of the Ward<g ref="char:EOLhyphen"/>robe, and M. <hi>Osburne</hi> Clerk of the Kitchen, both of them formerly servants to two Peers of the Realme.</p>
+            <p>There was (also) a Barber (an Inhabitant here) and some Gentlemen of this Isle, that had joyned in the managing of this businesse, and they with some Sea<g ref="char:EOLhyphen"/>men, and the aforesaid three Souldiers (two of which discovered it to the Governor) were to doe the work.</p>
+            <p>There are divers of them apprehended, and sent to prison by the Governour, who waits for Instructions from the Parliament, and the Lord Generall, what to doe therein.</p>
+            <p>Upon further search into the businesse, Collonell <hi>Hammond</hi> hath found out all the designe how His Ma<g ref="char:EOLhyphen"/>jesty should have got away, which was thus.</p>
+            <p>The King was to have gone out at a backe window, where His Majesty and a guide were to take horse, and the Guards being prepared to let him passe (upon an item given, who should have been well paid) His Ma<g ref="char:EOLhyphen"/>jesty was to ride with His said guid to a private creeke where a boate and water-men were ready to carry him away.</p>
+            <p>And this was brought so neare to a conclusion, that His Majesty was in a withdrawing posture, and had spent some time in privacy (I suppose) writing.</p>
+            <p>And Iron bar of a back window, was eaten through with some mercury water, but not easily to be dis<g ref="char:EOLhyphen"/>cerned;
+<pb n="3" facs="tcp:161759:3"/>yet could with pleasure be drawne aside, but it was a paire of staires high from the ground.</p>
+            <p>Under that Window there were tyed two Horses, ready bridled and saddled, and a Boat was in one of the creeks of the Island, and had it not bin discovered by the souldiers, I do not know what could have pre<g ref="char:EOLhyphen"/>vented His Majesties going away.</p>
+            <closer>
+               <dateline>
+                  <hi>Carisbrooke Castle</hi>
+                  <date>
+                     <hi>May</hi> 30. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Have received your Letter, and give you thanks for your remembrance of me. The next day after my last writing, we were suddenly in great feares and dangers, by the rebellious risings about <hi>Pensaner,</hi> in the suppressing of which tumults, Mr. <hi>Seyntaubin</hi> shewed himself both discreetly and valiantly. I shall give you a perfect narrative of the businesse. This Tuesday night 16 of <hi>May,</hi> the Rebels began to gather between <hi>Pensaner</hi> and <hi>Gulbal,</hi> under the command of Major <hi>Grosse,</hi> Cap. <hi>Maddern,</hi> Cap. <hi>Pike,</hi> Cap. <hi>Trisi<g ref="char:EOLhyphen"/>lian,</hi> Cap. <hi>Colman,</hi> and Cap. <hi>Jones,</hi> they were at first about 200. Mr. <hi>Seyntaubin</hi> hearing of it, hasted to <hi>Market Jew,</hi> and with Mr. <hi>Ceely,</hi> and Mr. <hi>Sheerwood,</hi> had a parley with <hi>Grosse,</hi> and some others, they pre<g ref="char:EOLhyphen"/>tended that they were wronged, and threatned, by the Mount Souldiers, and took up armes to defend them<g ref="char:EOLhyphen"/>selves, but this was a meer pretence. Mr. <hi>Seyntaubin</hi> in the mean time had sent Eastward for the Forces, and put off the parley untill Saturday morning, and
+<pb n="4" facs="tcp:161759:4"/>this Friday went unto St <hi>Ives,</hi> to quiet them who were suspected to have a hand in the confederacy. On Sa<g ref="char:EOLhyphen"/>turday Evening the Eastern forces came unto <hi>Helston,</hi> with the Sheriffe, and Col. <hi>Bennet;</hi> but I should have told you, that on Thursday Evening came 30 Soul<g ref="char:EOLhyphen"/>diers from the <hi>Devizes</hi> unto our Town, intending to march unto the Mount to secure it, but being so small a party, would not adventure further, I perswaded them to stay with us all that night to secure our Town, of whom I was much afraid, and not without cause, for our Cavalliers had two dayes before vapoured most terribly, and am confident had risen that night, if those 30 Souldiers had not stayed with us, for since I have searched out the businesse, and have found, by the confession of two, that <hi>John Pierce,</hi> who was Ser<g ref="char:EOLhyphen"/>geant unto <hi>Collins,</hi> had warned all the rogues to be ready at an houres call, and had listed 40. This Sa<g ref="char:EOLhyphen"/>turday night our Forces marcht out of <hi>Helston</hi> unto <hi>Breague,</hi> being about 400 horse, and but 120 Foot, under the command of Cap. <hi>Wilson,</hi> a brave stout man and so are all his Foot, the Horse were the Sheriffes Troop, Cap. <hi>Glyns</hi> Troop, Cap. <hi>Rawlins</hi> Troop, with others. The Sunday night they advanced Westward, and the Monday morning I went after them. The Re<g ref="char:EOLhyphen"/>bels were increased to the number of 300. and had fortifyed <hi>Pensaner</hi> Town. Munday about one of the clock our Forces fell upon the Town most resolutely, and after half an houres skirmish, stormed the Town and took it, we lost some five or six men, the Rebells lost many, Cap, <hi>Jones,</hi> Cap. <hi>Tristlian</hi> taken, the rest of the Commanders fled, and not yet discovered, ma<g ref="char:EOLhyphen"/>ny of the common Souldiers taken, the whole Town plundered, unlesse it were <hi>Gubbs</hi> and one or two more,
+<pb n="5" facs="tcp:161759:4"/>the Souldiers had never such plunder since they were Souldiers, the Town is utterly undone, this misery they have brought upon themselves by setting up a May-Pole, which was the occasion of all this. As soon as this was ended, (and it was Gods great mercy that they were so soon routed) a Post came unto us that <hi>Mullion</hi> was up in armes, for Cap. <hi>Pike</hi> the Munday went from <hi>Pensaner</hi> by Boat, landed upon the Sand by the <hi>Looe,</hi> and went unto the South to raise them, and their plot was to come in the Reare of our Forces that Evening, I posted home, and caused bonefires and the Bells to be rung out for joy of our Victory, tidings came to our Town, that there were 120 in armes in <hi>Mullion</hi> Church yard, under the conduct of one <hi>Glo<g ref="char:EOLhyphen"/>ver</hi> and <hi>Slavill,</hi> our Town was in a pittifull fright, we procured a watch, and all that we durst trust were not above 20, &amp; all the Muskets were but 15. The Mayor, my selfe, and the rest of our Magistrates, watched in person all night, our Mayor hath shewed himself ho<g ref="char:EOLhyphen"/>nest and diligent. Tuesday about mid-day, tidings came to us, that there was a great body of Rebels at <hi>Mangou Church Towne,</hi> for it appeares that they had marched from <hi>Mullion</hi> unto St. <hi>Keveme</hi> that night, and had gathered about 300 Foot and 40 Horse, and was come unto <hi>Mangou,</hi> our Town was struck in amaze<g ref="char:EOLhyphen"/>ment, for our Forces were not yet advanced from <hi>Pen<g ref="char:EOLhyphen"/>saner,</hi> we had sent Letters unto them the Monday night I bestirred my selfe, and got some 15 Horse, among whom was Mr. <hi>Burges</hi> and his Son, <hi>Alex. Penkillicke,</hi> and others, we marched toward <hi>Mangou,</hi> and at <hi>John Bassets</hi> house we had intelligence, that the Rebels force was at <hi>Church-Town.</hi> We retreated to the Downes, and at last we espied 3 of their Scouts bravely horsed,
+<pb n="6" facs="tcp:161759:5"/>we suffered them to come on half a mile in the Downs then we pursued them, they fled into the Lanes, where we durst not follow them for fear of an ambuscado in the hedges, in the way to <hi>Week</hi> they had set 4 musket<g ref="char:EOLhyphen"/>teers. In our Retreat they followed us again, 6 of us resolved, if our Horses could do it, to recover them, we spurd on, the Rogues fled, we followed them into the Lane, but at last we stood, and then they stopt, we dis<g ref="char:EOLhyphen"/>covered one of them to be <hi>Calenso,</hi> we fired on them, and so Retreated unto the middle of the Downs, our purpose was to scout on the Downs, that they might not advance to our Towne, by this time about six of the clock, wee had notice that our Forces Horse and Foot, were come to <hi>Helston,</hi> they sent for us and we re<g ref="char:EOLhyphen"/>turned, they presently advanced, and charged on to <hi>Mangou Church-Town,</hi> where they killed this <hi>Calenso,</hi> and some others: The Rebels had made their stand at <hi>Trevilians</hi> Barne, on the top of the hill above Geare Bridge, our Horse and Foot fell on bravely, routed them with the hurt only of one man, pursued them all this last night unto St. <hi>Kevern,</hi> and all the South, have killed many, and taken many, and are yet in the chase. What the full issue of this is, as yet I cannot write you, the Post stayes, and I am weary with watching. God hath been very gracious to us in scattering our Enemies, this was a great plot, for the whole County to rise, and had we not falne on so soon on <hi>Pensaner,</hi> we had all been ruined. The Lord watch over us and preserve us, and unto him be all the glory.</p>
+            <p>Many of the Cavaliers that fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d after they were routed, seeing themselves so close pursued, joyned hand in hand, and leaped into the water.</p>
+            <closer>
+               <dateline>
+                  <hi>Helston</hi>
+                  <date>this 29 <hi>of May,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
